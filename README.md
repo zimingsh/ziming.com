@@ -1,0 +1,2 @@
+# ziming.com
+my blog
